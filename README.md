@@ -1,3 +1,3 @@
 My overthewire write ups
 
-https://overthewire.org/wargames/bandit/
+https://overthewire.org/wargames
